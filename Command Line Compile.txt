@@ -1,0 +1,5 @@
+For 2DMomentumSolver.cpp:
+g++ -Wall -o "2D MCS.exe" 2DMomentumSolver.cpp 2DMomentumEquations.o -static-libgcc -static-libstdc++
+
+For 2DMomentumEquations.cpp
+g++ -Wall -c 2DMomentumEquations.cpp
