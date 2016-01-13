@@ -10,5 +10,5 @@ https://www.khanacademy.org/science/physics/linear-momentum/momentum-tutorial/v/
 The purpose of this project is to apply the intricate nature of two dimensional conservation momentum questions with the concepts and skills of object oriented programming. Specifically using the Vector class that was developed in the [Vector Addition Solver](https://github.com/kgorgi/Vector-Addition-Solver) project and apply the class (without the class being modified) in a completely different scenario. 
 
 ## Installation:
-To use the 2D Momentum Computation System please download and run the "2D_MCS.exe" file. Please note your anti-virus may need to be disabled in order for the program to function properly. 
+To use the 2D Momentum Computation System please download and run the "2D_MCS.exe" file found in the releases tab of this GitHub project. Please note your anti-virus may need to be disabled in order for the program to function properly. 
 
