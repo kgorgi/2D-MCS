@@ -1,8 +1,8 @@
 # 2D Momentum Computation System
 ## Synopsis:
-Solving two dimensional conservation of momentum physics problems is a long and painful process. There are many calculations that must be preformed in order to solve just one of these problem. The 2D Momentum Computation System is the solution to these issues by providing a Windows command line program, which is built using Notepad++ and the MinGW C++ compiler. All the user/physics student has to do is enter the values given by the question and the program will quickly solve the problem. Problems that can be solved using this program include two object collisions with the unknown momentum vector before or after the collision. Furthermore, these two objects can be fuse together after the collision and the question can still be solved. 
+Solving two dimensional conservation of momentum physics problems is a long and painful process. There are many calculations that must be performed in order to solve just one of these problems. The 2D Momentum Computation System is the solution to these issues by providing a Windows command line program, which is built using Notepad++ and the MinGW C++ compiler. All the user/physics student has to do is enter the values given by the question and the program will quickly solve the problem. Problems that can be solved using this program include two object collisions with the unknown momentum vector before or after the collision. Furthermore, these two objects can be fuse together after the collision and the question can still be solved. 
 
-To find out more about two dimensional physics problems that use the conversation of momentum please visit:
+To find out more about two dimensional physics problems that use the conservation of momentum please visit:
 
 https://www.khanacademy.org/science/physics/linear-momentum/momentum-tutorial/v/2-dimensional-momentum-problem
 
